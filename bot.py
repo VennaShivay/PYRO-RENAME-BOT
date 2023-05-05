@@ -47,4 +47,5 @@ class Bot(Client):
         print("Bᴏᴛ Sᴛᴏᴩᴩᴇᴅ.. Byᴇ")
        
 
-Bot().run()
+bot = Bot()
+bot.run()
